@@ -148,7 +148,7 @@ Hedef sunucu, hizmet biletinin şifresini çözmek ve SK2'yi çıkarmak için su
 
 Kontroller karşılandığında, hedef sunucu istemciye, istemcinin ve sunucunun birbirini doğruladığını doğrulayan bir mesaj gönderir. Kullanıcı artık güvenli bir oturuma girebilir.
 
-
+![Protokol Akışı](https://github.com/susalihh/Samba-Temel-Kavramlar/blob/main/krb.png)
 
 
 ##### Kerberos kimlik doğrulamasıyla bir Windows paylaşımı bağlayın
